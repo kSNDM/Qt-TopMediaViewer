@@ -1,0 +1,12 @@
+# 忽略构建目录
+build/
+bin/
+
+# 忽略 VS Code 配置（可选）
+.vscode/
+
+# 忽略 exe 和 dll 文件
+*.exe
+*.dll
+*.a
+*.o
